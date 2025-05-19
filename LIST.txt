@@ -1,10 +1,11 @@
-||Facebook.com^
-||Messenger.com^
-||Instagram^
-||Youtube.com^
+||facebook.com^
+||fbcdn.net^
+||messenger.com^
+||instagram^
+||youtube.com^
 ||X.com^
-||Tiktok.com^
-||Netflix.com^
+||tiktok.com^
+||netflix.com^
 ||twitch.tv^
 ||twitter.com^
 ||spotify.com^

@@ -5,6 +5,8 @@
 ||youtube.com^
 ||X.com^
 ||tiktok.com^
+||tiktokv.com^
+||tiktokcdn.com^
 ||netflix.com^
 ||twitch.tv^
 ||twitter.com^

@@ -3,6 +3,7 @@
 ||messenger.com^
 ||instagram^
 ||youtube.com^
+||youtubei.googleapis.com^
 ||X.com^
 ||tiktok.com^
 ||tiktokv.com^

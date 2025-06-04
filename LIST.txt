@@ -15,7 +15,6 @@
 ||discord.com^
 ||roblox.com^
 ||telegram.org^
-||adobe.com^
 ||disneyplus.com^
 ||primevideo.com^
 ||librefutbol.su^

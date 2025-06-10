@@ -1,5 +1,3 @@
-||facebook.com^
-||fbcdn.net^
 ||messenger.com^
 ||instagram^
 ||X.com^

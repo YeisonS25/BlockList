@@ -11,6 +11,8 @@
 ||discord.com^
 ||roblox.com^
 ||telegram.org^
+||canalrcn.com^
+||caracoltv.com^
 ||disneyplus.com^
 ||primevideo.com^
 ||librefutbol.su^
@@ -28,7 +30,7 @@
 ||espn.com^
 ||elitegol.co^
 ||elitegol.watch^
-||www.elitegoltv.org^
+||elitegoltv.org^
 ||sportlemons.tv^
 ||sportlemon.net^
 ||wheresthematch.com^
@@ -53,4 +55,3 @@
 ||mask-h2.icloud.com^
 ||mask-api.icloud.com^
 ||mask.apple-dns.net^
-||youporn.com^
